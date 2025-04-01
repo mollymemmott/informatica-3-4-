@@ -1,0 +1,12 @@
+#include <stdio h>
+
+intmian() {
+    intnumber1 =10;
+    intnumber2 =15;
+    int sum = number1 + number2;
+
+    printI(>The sum is: %/n" ,sum);
+    //printf("The prodcuct is: %d\n" , product);
+
+    return 0;
+     }
